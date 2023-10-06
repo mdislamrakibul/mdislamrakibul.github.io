@@ -14,7 +14,7 @@ My portfolio website is built using HTML, CSS, and JavaScript. You can check it 
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Md Rakibul Islam**
 
 * LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
 * GitHub: [@arasgungore](https://github.com/mdislamrakibul)
